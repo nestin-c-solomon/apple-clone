@@ -1,0 +1,7 @@
+.gadgetrow{
+    overflow-x: scroll;
+}
+
+::-webkit-scrollbar{
+    display: none;
+}
